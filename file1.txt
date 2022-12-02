@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 This is file 1 - This is updated in first branch
+=======
+This is file 1 
+hi hello
+>>>>>>> firstbranch
